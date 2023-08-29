@@ -5,7 +5,7 @@
  * `src` - relevant source
  * `webpack.config.js` - basic webpack configuration
  * `nginx.conf` - basic nginx configuration
- * `Dockerfile` - builds node app and deploys it via nginx
+ * `Dockerfile` - builds node app and deploys it via `nginx`
 
 ## Steps
  1. `cd react-webpack`
@@ -19,4 +19,4 @@
  ```
  4. Hit http://localhost:8081 and see the app composed by `src/App.js`
 
- 
+
